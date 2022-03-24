@@ -7,7 +7,7 @@ Sem muitas novidades, trata-se de um simples jogo Snake, desenvolvido para aplic
 
 ## Executando o Projeto
 
-Este projeto pode ser executado abrindo o arquivo index.html, porém apenas se as seguintes linhas no arquivo `app.js` forem comentadas:
+Este projeto pode ser executado abrindo o arquivo index.html, porém apenas se as seguintes linhas no arquivo `app.js` estiverem comentadas:
 
 `22) loadSound('power-up', 'sounds/power-up.wav')`
 
